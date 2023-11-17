@@ -6,3 +6,6 @@
 fix-B-next
 
 fixB-next後にコミット
+
+
+featureC後にコミット
