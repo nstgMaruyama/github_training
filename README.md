@@ -1,3 +1,1 @@
 # github_training
-
-ああ
